@@ -1,0 +1,138 @@
+
+\usepackage{fancybox}
+\usepackage{algorithm2e}
+
+\usepackage{multicol}
+
+\usepackage{bardiag}
+\usepackage{graphicx}
+\usepackage{pstricks}
+%\usepackage{psfig,epsfig,subfigure}
+\usepackage{epsfig,subfigure}
+\usepackage{pst-node,pst-coil,pst-plot,pst-tree}
+
+\usepackage{bbm}
+
+%
+% Figure
+%
+\newcommand{\figwidth}[3]
+ {\centerline{\mbox{\psfig{file=#1/#2,width=#3}}}}
+\newcommand{\figwidthrotate}[3]
+ {\centerline{\mbox{\psfig{file=#1/#2,width=#3,angle=90}}}}
+\newcommand{\efigwidth}[3]
+ {\centerline{\mbox{\epsfig{file=#1/#2,width=#3}}}}
+\newcommand{\efigwidthrotate}[3]
+ {\centerline{\mbox{\epsfig{file=#1/#2,width=#3,angle=90}}}}
+ 
+ 
+
+
+
+\def\tc{\textcolor}
+\def\p{\pause}
+\newcommand{\vs}{\vspace{0.5cm}}
+
+
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+\newcommand{\bit}{\begin{itemize}}
+\newcommand{\eit}{\end{itemize}}
+\newcommand{\ben}{\begin{enumerate}}
+\newcommand{\een}{\end{enumerate}}
+\newcommand{\beqs}{\begin{eqnarray*}}
+\newcommand{\eeqs}{\end{eqnarray*}}
+\newcommand{\bqu}{\begin{quote}}
+\newcommand{\equ}{\end{quote}}
+\newcommand{\bvb}{\begin{verbatim}}
+\newcommand{\evb}{\end{verbatim}}
+\newcommand{\mb}[1]{\mbox{#1}}
+\newcommand{\mbs}[1]{\mbox{\small #1}}
+
+\newcommand{\sS}{{\cal S}}
+\newcommand{\sT}{{\cal T}}
+\newcommand{\sG}{{\cal G}}
+\newcommand{\sD}{{\cal D}}
+\newcommand{\sC}{{\cal C}}
+\newcommand{\sN}{{\cal N}}
+\newcommand{\sF}{{\cal F}}
+\newcommand{\sL}{{\cal L}}
+
+\newcommand{\mR}{\mathbb{R}}
+
+
+\newcommand{\mE}{{\mathbb{E}}}
+\newcommand{\crossEntropy}{{\mE_{\bx, \by \sim \hat{p}_{\mbox{\scriptsize data}}}}}
+
+
+
+\newtheorem{theo}{Theorem}
+\newtheorem{cor}{Corollary}
+\newtheorem{pro}{Proposition}
+\newtheorem{lem}{Lemma}
+
+\newcommand{\ba}{{\bf a}}
+\newcommand{\bb}{{\bf b}}
+\newcommand{\bfc}{{\bf c}}
+\newcommand{\bh}{{\bf h}}
+\newcommand{\bo}{{\bf o}}
+\newcommand{\softmax}{\mbox{softmax}}
+
+\newcommand{\bI}{{\bf I}}
+\newcommand{\bi}{{\bf i}}
+\newcommand{\bC}{{\bf C}}
+\newcommand{\bD}{{\bf D}}
+\newcommand{\bE}{{\bf E}}
+\newcommand{\be}{{\bf e}}
+\newcommand{\bff}{{\bf f}}
+\newcommand{\bQ}{{\bf Q}}
+\newcommand{\bfq}{{\bf q}}
+\newcommand{\bS}{{\bf S}}
+\newcommand{\bs}{{\bf s}}
+\newcommand{\bV}{{\bf V}}
+\newcommand{\bw}{{\bf w}}
+\newcommand{\bW}{{\bf W}}
+\newcommand{\bU}{{\bf U}}
+\newcommand{\bX}{{\bf X}}
+\newcommand{\bx}{{\bf x}}
+\newcommand{\bY}{{\bf Y}}
+\newcommand{\by}{{\bf y}}
+\newcommand{\bZ}{{\bf Z}}
+\newcommand{\bz}{{\bf z}}
+
+% From COMP 328
+\def\q{{\bf q}}
+\def\r{{\bf r}}
+\def\v{{\bf v}}
+\def\x{{\bf x}}
+\def\h{{\bf h}}
+\def\y{{\bf y}}
+\def\z{{\bf z}}
+\def\w{{\bf w}}
+\def\R{{\mathbb R}}
+\def\E{{\mathbb E}}
+\def\1{{\mathbbm{1}}}
+\def\I{{\bf I}}
+\def\0{{\bf 0}}
+\def\1{{\bf 1}}
+\def\L{{\mathcal L}}
+\def\bxi{\mbox{{\boldmath $\xi$}}}
+
+\def\bmu{\mbox{{\boldmath $\mu$}}}
+\def\bSig{\mbox{{\boldmath $\Sigma$}}}
+\newcommand{\sign}{\text{sign}}
+
+\newcommand{\btheta}{\boldsymbol{\theta}}
+\newcommand{\bphi}{\boldsymbol{\phi}}
+\newcommand{\bpi}{\boldsymbol{\pi}}
+\newcommand{\balpha}{{\bf \alpha}}
+\newcommand{\bepsilon}{\boldsymbol{\epsilon}}
+\newcommand{\bbeta}{{\bf \beta}}
+\newcommand{\bLambda}{{\bf \Lambda}}
+
+\newcommand{\toprule}{\hline}
+\def\bmu{\mbox{{\boldmath $\mu$}}}
+\def\bSig{\mbox{{\boldmath $\Sigma$}}}
+
+
+\newcommand{\bottomrule}{\hline}

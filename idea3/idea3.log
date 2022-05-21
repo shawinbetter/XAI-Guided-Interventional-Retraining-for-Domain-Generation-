@@ -1,0 +1,931 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.3)  15 DEC 2021 13:30
+entering extended mode
+**./idea3.tex
+(idea3.tex
+LaTeX2e <2016/02/01>
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\bibtopic\bibtopic.sty"
+Package: bibtopic 2006/09/08 v1.1a Sectioned Bibliographies
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@btauxfile=\count87
+\bt@infilea=\read1
+\bt@infileb=\read2
+\bt@outfile=\write3
+\bt@tempboxa=\box26
+) (lec.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancybox\fancybox.sty"
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box27
+\shadowsize=\dimen103
+\@Sbox=\box28
+\do@VerbBox=\toks14
+\the@fancyput=\toks15
+\this@fancyput=\toks16
+\EndVerbatimTokens=\toks17
+\Verbatim@Outfile=\write4
+\Verbatim@Infile=\read3
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\algorithm2e\algorithm2e.sty"
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count88
+\algocf@hangindent=\skip43
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+********************************************************
+Package `algorithm2e' Release 5.1 -- october 19 2015 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (christophe.fiorio@umontpellier.fr)
+********************************************************
+\skiptotal=\skip44
+\skiplinenumber=\skip45
+\skiprule=\skip46
+\skiphlne=\skip47
+\skiptext=\skip48
+\skiplength=\skip49
+\algomargin=\skip50
+\skipalgocfslide=\skip51
+\algowidth=\dimen104
+\inoutsize=\dimen105
+\inoutindent=\dimen106
+\interspacetitleruled=\dimen107
+\interspacealgoruled=\dimen108
+\interspacetitleboxruled=\dimen109
+\algocf@ruledwidth=\skip52
+\algocf@inoutbox=\box29
+\algocf@inputbox=\box30
+\AlCapSkip=\skip53
+\AlCapHSkip=\skip54
+\algoskipindent=\skip55
+\algocf@nlbox=\box31
+\algocf@hangingbox=\box32
+\algocf@untilbox=\box33
+\algocf@skipuntil=\skip56
+\algocf@capbox=\box34
+\algoheightruledefault=\skip57
+\algoheightrule=\skip58
+\algotitleheightruledefault=\skip59
+\algotitleheightrule=\skip60
+\c@algocfline=\count89
+\c@algocfproc=\count90
+\c@algocf=\count91
+\algocf@algoframe=\box35
+\algocf@algobox=\box36
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count92
+\mult@box=\box37
+\multicol@leftmargin=\dimen110
+\c@unbalance=\count93
+\c@collectmore=\count94
+\doublecol@number=\count95
+\multicoltolerance=\count96
+\multicolpretolerance=\count97
+\full@width=\dimen111
+\page@free=\dimen112
+\premulticols=\dimen113
+\postmulticols=\dimen114
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box38
+\last@line=\box39
+\maxbalancingoverflow=\dimen115
+\mult@rightbox=\box40
+\mult@grightbox=\box41
+\mult@gfirstbox=\box42
+\mult@firstbox=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\c@columnbadness=\count98
+\c@finalcolumnbadness=\count99
+\last@try=\dimen116
+\multicolovershoot=\dimen117
+\multicolundershoot=\dimen118
+\mult@nat@firstbox=\box61
+\colbreak@box=\box62
+\mc@col@check@num=\count100
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\bardiag\bardiag.sty"
+Package: bardiag 2003/12/10 version 0.5
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen119
+\calc@Bdimen=\dimen120
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count103
+\calc@Cskip=\skip65
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\bardiag\pstfp.sty"
+Package: pstfp 2003/05/10
+
+`(Patched) Basic Fixed Point Arithmetic',  \par Version 1.2d (C) Michael Mehlic
+h\par  Patched by R. Stepanyan             
+\FP@xs=\count104
+\FP@xia=\count105
+\FP@xib=\count106
+\FP@xfa=\count107
+\FP@xfb=\count108
+\FP@rega=\count109
+\FP@regb=\count110
+\FP@regs=\count111
+\FP@times=\count112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
+Package: fp-snap 1995/04/05
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count113
+\FP@xia=\count114
+\FP@xib=\count115
+\FP@xfa=\count116
+\FP@xfb=\count117
+\FP@rega=\count118
+\FP@regb=\count119
+\FP@regs=\count120
+\FP@times=\count121
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2015/11/14 v0.62 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count122
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))
+\XKV@depth=\count123
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex"
+\pstFP@xs=\count124
+\pstFP@xia=\count125
+\pstFP@xib=\count126
+\pstFP@xfa=\count127
+\pstFP@xfb=\count128
+\pstFP@rega=\count129
+\pstFP@regb=\count130
+\pstFP@regs=\count131
+\pstFP@times=\count132
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen121
+\pgfutil@tempdimb=\dimen122
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks23
+)) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex"
+\pgf@x=\dimen123
+\pgf@xa=\dimen124
+\pgf@xb=\dimen125
+\pgf@xc=\dimen126
+\pgf@y=\dimen127
+\pgf@ya=\dimen128
+\pgf@yb=\dimen129
+\pgf@yc=\dimen130
+\c@pgf@counta=\count133
+\c@pgf@countb=\count134
+\c@pgf@countc=\count135
+\c@pgf@countd=\count136
+\pgfutil@tempcnta=\count137
+\pgfutil@tempcntb=\count138
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen131
+\pgfmath@count=\count139
+\pgfmath@box=\box63
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count140
+))
+\pgffor@iter=\dimen132
+\pgffor@skip=\dimen133
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+)
+\psLoopIndex=\count141
+
+`PSTricks' v2.64b  <2015/14/11> (tvz)
+\pst@dima=\dimen134
+\pst@dimb=\dimen135
+\pst@dimc=\dimen136
+\pst@dimd=\dimen137
+\pst@dimg=\dimen138
+\pst@dimh=\dimen139
+\pst@dimm=\dimen140
+\pst@dimn=\dimen141
+\pst@dimo=\dimen142
+\pst@dimp=\dimen143
+\pst@hbox=\box64
+\pst@ibox=\box65
+\pst@boxg=\box66
+\pst@cnta=\count142
+\pst@cntb=\count143
+\pst@cntc=\count144
+\pst@cntd=\count145
+\pst@cntg=\count146
+\pst@cnth=\count147
+\pst@cntm=\count148
+\pst@cntn=\count149
+\pst@cnto=\count150
+\pst@cntp=\count151
+\@zero=\count152
+\pst@toks=\toks29
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.con")
+\psunit=\dimen144
+\psxunit=\dimen145
+\psyunit=\dimen146
+\pst@C@@rType=\count153
+\pslinewidth=\dimen147
+\psk@startLW=\dimen148
+\psk@endLW=\dimen149
+\pst@customdefs=\toks30
+\pslinearc=\dimen150
+\pst@symbolStep=\dimen151
+\pst@symbolWidth=\dimen152
+\pst@symbolLinewidth=\dimen153
+\everypsbox=\toks31
+\psframesep=\dimen154
+\pslabelsep=\dimen155
+\sh@wgridXunit=\dimen156
+\sh@wgridYunit=\dimen157
+\pst@shift=\dimen158
+)
+File: pstricks.tex 2015/14/11 v2.64b `PSTricks' (tvz,hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
+File: pst-fp.tex 2015/14/11 v2.64b `PST-fp' (hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstcol.sty"
+Package: pstcol 2007/04/11 v1.3 LaTeX wrapper for `PSTricks' (RN,HV)
+
+
+Package pstcol Warning: ************************************ 
+(pstcol)                The package `pstcol' is obsolet! 
+(pstcol)                You should use `pstricks' directly: 
+(pstcol)                    \usepackage{pstricks}
+(pstcol)                ************************************.
+
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\pst-grad\pst-grad.sty"
+Package: pst-grad 2004/07/15 package wrapper for pst-grad.tex (hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-grad\pst-grad.tex")
+File: pst-grad.tex 2006/11/27 1.06 `pst-grad' (tvz)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multido\multido.sty"
+Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\multido\multido.tex"
+\multido@count=\count154
+\multidocount=\count155
+\multido@stuff=\toks32
+)
+File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
+)
+\bottomheight=\skip66
+\xunitlength=\skip67
+\yunitlength=\skip68
+\ticklength=\skip69
+\leftshift=\skip70
+\frameXleft=\skip71
+\frameYbottom=\skip72
+\tickrightedge=\skip73
+\textoffset=\skip74
+\captionoffset=\skip75
+\c@subbar=\count156
+\numberoffset=\skip76
+\lefttextoffset=\skip77
+\bgx=\skip78
+\bgy=\skip79
+\bgxa=\skip80
+\bgya=\skip81
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\bardiag\bardiag.bar")
+\legendXo=\skip82
+\legendYo=\skip83
+\legendWidth=\skip84
+\legendHeight=\skip85
+\legenditemheight=\skip86
+\legendspacer=\skip87
+\legendRectWidth=\skip88
+\legendRectHeight=\skip89
+\lixcoor=\skip90
+\liycoor=\skip91
+\lixxcoor=\skip92
+\liyycoor=\skip93
+\liix=\skip94
+\liiix=\skip95
+\lShX=\skip96
+\lShXxx=\skip97
+\lShY=\skip98
+\lShYyy=\skip99
+\legendRectXo=\skip100
+\legendRectX=\skip101
+\legendRectYo=\skip102
+\legendRectY=\skip103
+\legendiyc=\skip104
+\ycoordnum=\skip105
+\ytick=\skip106
+
+BarDiag: Local configuration file bardiag.cfg loaded
+("C:\Program Files\MiKTeX 2.9\tex\latex\bardiag\bardiag.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+)
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen161
+\epsfysize=\dimen162
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip107
+\subfigcapskip=\skip108
+\subfigcaptopadj=\dimen163
+\subfigbottomskip=\skip109
+\subfigcapmargin=\dimen164
+\subfiglabelskip=\skip110
+\c@subfigure=\count157
+\c@lofdepth=\count158
+\c@subtable=\count159
+\c@lotdepth=\count160
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip111
+\subfig@bottom=\skip112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pst-node\pst-node.sty"
+Package: pst-node 2012/09/18 v1.01 LaTeX wrapper for `pst-node' (HV)
+Package: pst-node 2010/04/22 package wrapper for pst-node.tex
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-node\pst-node.tex"
+\psrow=\count161
+\pscol=\count162
+\psmatrixcnt=\count163
+\psrowsep=\skip113
+\pscolsep=\skip114
+\pst@args=\count164
+\num@pts=\count165
+\pst@argcnt=\count166
+)
+File: pst-node.tex 2014/08/04 1.35 `pst-node' (tvz,hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pst-coil\pst-coil.sty"
+Package: pst-coil 2010/02/01 package wrapper for pst-coil.tex (hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-coil\pst-coil.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-node\pst-node.tex"))
+File: pst-coil.tex 2015/05/13 v1.07 `PST-coil' (tvz,hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pst-plot\pst-plot.sty"
+Package: pst-plot 2011/06/05 v1.00 LaTeX wrapper for `pst-plot' (HV)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\pst-xkey.sty"
+Package: pst-xkey 2005/11/25 v1.6 package wrapper for pst-xkey.tex (HA)
+)
+Package: pst-plot 2011/04/13 package wrapper for pst-plot.tex (hv)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-plot\pst-plot.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-tools\pst-tools.tex")
+\pstRadUnit=\dimen165
+\pstRadUnitInv=\dimen166
+\pst@linecnt=\count167
+\RCD@file=\read4
+\psxlabelsep=\dimen167
+\psylabelsep=\dimen168
+\psk@subticksize=\dimen169
+\pst@xticksizeA=\dimen170
+\pst@xticksizeB=\dimen171
+\pst@xticksizeC=\dimen172
+\pst@yticksizeA=\dimen173
+\pst@yticksizeB=\dimen174
+\pst@yticksizeC=\dimen175
+\@digitcounter=\count168
+\psk@llx=\dimen176
+\psk@lly=\dimen177
+\psk@urx=\dimen178
+\psk@ury=\dimen179
+\pst@xunit=\dimen180
+\pst@yunit=\dimen181
+)
+File: pst-plot.tex 2014/08/23 1.70 `pst-plot' (tvz,hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\pst-tree\pst-tree.sty"
+Package: pst-tree 2009/01/25 package wrapper for pst-tree.tex
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\pst-tree\pst-tree.tex"
+\pstree@rootbox=\box67
+\pstree@box=\box68
+\psnodecnt=\count169
+\pstreelevel=\count170
+\pstreecnt=\count171
+\pstree@cnt=\count172
+\pstree@stop=\count173
+)
+File: pst-tree.tex 2011/02/28 1.12 `pst-tree' (tvz,hv)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\bbm\bbm.sty"
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+\c@theo=\count174
+\c@cor=\count175
+\c@pro=\count176
+\c@lem=\count177
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count178
+\Gm@cntv=\count179
+\c@Gm@tempcnt=\count180
+\Gm@bindingoffset=\dimen182
+\Gm@wd@mp=\dimen183
+\Gm@odd@mp=\dimen184
+\Gm@even@mp=\dimen185
+\Gm@layoutwidth=\dimen186
+\Gm@layoutheight=\dimen187
+\Gm@layouthoffset=\dimen188
+\Gm@layoutvoffset=\dimen189
+\Gm@dimlist=\toks33
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks34
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks35
+\thm@bodyfont=\toks36
+\thm@headfont=\toks37
+\thm@notefont=\toks38
+\thm@headpunct=\toks39
+\thm@preskip=\skip115
+\thm@postskip=\skip116
+\thm@headsep=\skip117
+\dth@everypar=\toks40
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count181
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip118
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks41
+\ex@=\dimen190
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen191
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box69
+\strutbox@=\box70
+\big@size=\dimen192
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip11
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks42
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks43
+\eqnshift@=\dimen193
+\alignsep@=\dimen194
+\tagshift@=\dimen195
+\tagwidth@=\dimen196
+\totwidth@=\dimen197
+\lineht@=\dimen198
+\@envbody=\toks44
+\multlinegap=\skip119
+\multlinetaggap=\skip120
+\mathdisplay@stack=\toks45
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) (idea3.aux)
+\openout1 = `idea3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen199
+\scratchbox=\box71
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen256
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks47
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=28.45274pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 49.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 49.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+LaTeX Warning: No \author given.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 68.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+[1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{C:/Users/lzhang/AppData/Local/MiKTeX/2.9/pdftex/config
+/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+File: Fig/fig1/guitar-cello.JPG Graphic file (type jpg)
+Package pdftex.def Info: Fig/fig1/guitar-cello.JPG used on input line 103.
+(pdftex.def)             Requested size: 79.65285pt x 73.97246pt.
+File: Fig/fig1/BPZ/cello.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig1/BPZ/cello.png used on input line 104.
+(pdftex.def)             Requested size: 56.9055pt x 55.49112pt.
+File: Fig/fig1/BPZ/acoustic-guitar.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig1/BPZ/acoustic-guitar.png used on input line 10
+5.
+(pdftex.def)             Requested size: 56.9055pt x 56.90448pt.
+File: Fig/fig1/BPZ/banjo.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig1/BPZ/banjo.png used on input line 106.
+(pdftex.def)             Requested size: 56.9055pt x 55.49112pt.
+File: Fig/fig1/BPZ/violin.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig1/BPZ/violin.png used on input line 107.
+(pdftex.def)             Requested size: 56.9055pt x 55.84456pt.
+File: Fig/fig1/BPZ/electric-guitar.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig1/BPZ/electric-guitar.png used on input line 10
+8.
+(pdftex.def)             Requested size: 56.9055pt x 55.8522pt.
+
+Overfull \hbox (29.06625pt too wide) in paragraph at lines 102--111
+ [][] 
+ []
+
+File: Fig/fig2/inter1.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig2/inter1.png used on input line 114.
+(pdftex.def)             Requested size: 71.13188pt x 69.69853pt.
+File: Fig/fig2/intra1.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig2/intra1.png used on input line 115.
+(pdftex.def)             Requested size: 56.9055pt x 56.45123pt.
+File: Fig/fig2/intra2.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig2/intra2.png used on input line 116.
+(pdftex.def)             Requested size: 56.9055pt x 58.54453pt.
+File: Fig/fig2/inter2.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig2/inter2.png used on input line 119.
+(pdftex.def)             Requested size: 71.13188pt x 72.01035pt.
+File: Fig/fig2/intra3.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig2/intra3.png used on input line 120.
+(pdftex.def)             Requested size: 56.9055pt x 57.14034pt.
+File: Fig/fig2/intra4.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig2/intra4.png used on input line 121.
+(pdftex.def)             Requested size: 56.9055pt x 57.13976pt.
+File: Fig/fig2/intra5.png Graphic file (type png)
+Package pdftex.def Info: Fig/fig2/intra5.png used on input line 122.
+(pdftex.def)             Requested size: 56.9055pt x 57.8631pt.
+[2 <./Fig/fig1/guitar-cello.JPG> <./Fig/fig1/BPZ/cello.png> <./Fig/fig1/BPZ/aco
+ustic-guitar.png> <./Fig/fig1/BPZ/banjo.png> <./Fig/fig1/BPZ/violin.png> <./Fig
+/fig1/BPZ/electric-guitar.png> <./Fig/fig2/inter1.png> <./Fig/fig2/intra1.png> 
+<./Fig/fig2/intra2.png> <./Fig/fig2/inter2.png> <./Fig/fig2/intra3.png> <./Fig/
+fig2/intra4.png> <./Fig/fig2/intra5.png>] (idea3.aux) )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 1061 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 14098 strings out of 493622
+ 232030 string characters out of 3143642
+ 459642 words of memory out of 3000000
+ 17203 multiletter control sequences out of 15000+200000
+ 17528 words of font info for 65 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 50i,12n,56p,1060b,13006s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmt
+i12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+
+Output written on idea3.pdf (2 pages, 2218380 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
